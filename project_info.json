@@ -1,0 +1,17 @@
+{
+  "projectName": "Linux Resource Manager",
+  "category": "System Administration",
+  "author": "Ogrenci_Ismi_Girin",
+  "version": "1.0.0",
+  "description": "Linux sistem kaynaklarını izleyen ve yöneten CLI aracı.",
+  "features": [
+    "RAM Monitoring",
+    "Disk Usage Analysis",
+    "Process Management",
+    "Auto-Self Check"
+  ],
+  "requirements": {
+    "os": "Ubuntu 22.04+",
+    "language": "Bash Script"
+  }
+}
